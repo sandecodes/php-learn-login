@@ -1,0 +1,14 @@
+.box {
+  height: 80vh;
+}
+
+form {
+  width: 30vw;
+  margin: auto;
+}
+
+@media (max-width: 576px) {
+  form {
+    width: 80vw;
+  }
+}
